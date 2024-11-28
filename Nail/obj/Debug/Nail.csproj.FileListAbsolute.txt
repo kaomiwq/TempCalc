@@ -1,0 +1,10 @@
+C:\Users\ringa\source\repos\Nail\Nail\obj\Debug\Nail.csproj.AssemblyReference.cache
+C:\Users\ringa\source\repos\Nail\Nail\obj\Debug\ClientsPage.g.cs
+C:\Users\ringa\source\repos\Nail\Nail\obj\Debug\MainPage.g.cs
+C:\Users\ringa\source\repos\Nail\Nail\obj\Debug\MainWindow.g.cs
+C:\Users\ringa\source\repos\Nail\Nail\obj\Debug\OrdersPage.g.cs
+C:\Users\ringa\source\repos\Nail\Nail\obj\Debug\ServicePage.g.cs
+C:\Users\ringa\source\repos\Nail\Nail\obj\Debug\StaffPage.g.cs
+C:\Users\ringa\source\repos\Nail\Nail\obj\Debug\App.g.cs
+C:\Users\ringa\source\repos\Nail\Nail\obj\Debug\Nail_MarkupCompile.cache
+C:\Users\ringa\source\repos\Nail\Nail\obj\Debug\Nail_MarkupCompile.lref
